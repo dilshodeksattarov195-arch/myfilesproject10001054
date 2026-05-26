@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcync",
+        "uuid": 1494572,
+        "checksum": "9bxrdv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
